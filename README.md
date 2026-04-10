@@ -1,1 +1,1 @@
-Arquivo descritivo para projetos, podendo ser utilizado para documentação ou até para anotações.
+Arquivo descritivo para projetos, podendo ser utilizado para documentação ou até para anotações.git status
